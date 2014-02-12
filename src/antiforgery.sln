@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antiforgery", "antiforgery\antiforgery.csproj", "{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "antiforgery.Testing", "antiforgery.Testing\antiforgery.Testing.csproj", "{AB5D5368-2D3D-45C9-A005-BDB597454C7F}"
@@ -14,20 +16,16 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Debug|x86.ActiveCfg = Debug|x86
-		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Debug|x86.Build.0 = Debug|x86
+		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Release|x86.ActiveCfg = Release|x86
-		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Release|x86.Build.0 = Release|x86
+		{A02EE965-8C54-43E4-BAAF-FAAE01918EC3}.Release|x86.ActiveCfg = Release|Any CPU
 		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Debug|x86.ActiveCfg = Debug|x86
-		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Debug|x86.Build.0 = Debug|x86
+		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Release|x86.ActiveCfg = Release|x86
-		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Release|x86.Build.0 = Release|x86
+		{AB5D5368-2D3D-45C9-A005-BDB597454C7F}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

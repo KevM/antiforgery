@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>AB5D5368-2D3D-45C9-A005-BDB597454C7F</ProjectGuid>
+    <ProjectGuid>{AB5D5368-2D3D-45C9-A005-BDB597454C7F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>antiforgery.Testing</RootNamespace>
     <AssemblyName>antiforgery.Testing</AssemblyName>
